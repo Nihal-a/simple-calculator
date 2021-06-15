@@ -60,6 +60,10 @@ body {
   outline: none;
   font-family: "Poppins", sans-serif;
   font-size: 50px;
+  cursor: pointer;
+}
+.btn:hover{
+  background: #e4e4e4;
 }
 .btn-row{
     display: flex;
@@ -71,18 +75,10 @@ body {
     background-color: #262626;
     color: #ffffff;
 }
+.c-btn:hover{
+    background-color: #111111;
+}
 .zero{
     width: 189px;
     height: 77px;
 }
-/* .btn {
-    width: 77px;
-    height: 77px;
-    background: #f3f3f3;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
-    border-radius: 9px;
-    border: none;
-    outline: none;
-    font-family: "Poppins", sans-serif;
-    font-size: 55px;
-  } */
